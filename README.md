@@ -285,7 +285,9 @@ Deberías ver respuestas JSON en tu navegador. Para POST y checkAvailability, ne
 Las contribuciones son bienvenidas. Si encuentras un error o tienes una mejora, por favor abre un issue o envía un pull request.
 
 👤 Autor
-Ing. David Caro Morales
+Amanda Recuero
+Sandra Jimenez
+
 
 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
